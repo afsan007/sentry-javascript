@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sajjad/Projects/contribute/sentry-javascript'
+yarn
+yarn clean
+yarn build
+yarn lint
+yarn test
+make: Leaving directory '/home/sajjad/Projects/contribute/sentry-javascript'
+ 
